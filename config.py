@@ -3,13 +3,10 @@
 
 #keystore信息
 #Windows 下路径分割线请注意使用\\转义
-keystorePath = "/Users/mac/Android/pro/prometheus-android/app/release.keystore"
-keyAlias = "your KeyAlias"
-keystorePassword = "your KeystorePassword"
-keyPassword = "your keyPassword"
-
-#加固后的源文件名（未重签名）
-protectedSourceApkName = "app-release.encrypted.apk"
+keystorePath = "/Users/zhangxiao/AndroidStudioProjects/gofunwork/gofun-android/app/shouqiev.jks"
+keyAlias = "Gofun"
+keystorePassword = "shouqiev"
+keyPassword = "shouqiev"
 
 #Android SDK buidtools path , please use above 25.0+
-sdkBuildToolPath = "/Users/mac/Library/Android/sdk/build-tools/25.0.2"
+sdkBuildToolPath = "/Users/zhangxiao/Library/Android/sdk/build-tools/26.0.1"
