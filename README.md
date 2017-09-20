@@ -13,7 +13,7 @@
 ----------
 # 支持平台：（需要python环境）
 - Windows (Test)
-- Mac OS (Test)
+- Mac OS 
 - Linux
 
 ----------
